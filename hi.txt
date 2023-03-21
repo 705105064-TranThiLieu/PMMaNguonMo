@@ -1,2 +1,4 @@
 Hello world ...
 
+Thay mật khẩu bằng mã token
+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 (mã này có thời hạn 30 ngày từ ngày 21/03/2023)
